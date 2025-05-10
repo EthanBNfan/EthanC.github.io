@@ -159,22 +159,6 @@ article h4 {
     padding: 0;
 }
 
-.slider_img {
-    border-radius: 25px;
-    flex: 50%;
-    flex-wrap: wrap;
-    margin-left: auto !important;
-    margin-right: auto !important;
-    width: 770px; 
-    height: 267px;
-    display: flex;
-    background-color: deeppink;
-}
-
-.slider_img img {
-    width: 75%;
-}
-
 .flex_img1 {
     margin-top: 5px;
     border-radius: 25px;
